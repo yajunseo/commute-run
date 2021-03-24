@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Floor
   - Gold
+  - Obstacle1
+  - Obstacle1Range
   layers:
   - Default
   - TransparentFX

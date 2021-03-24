@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
 {
     public  float jumpPower = 30;
     public int GoldCount;
+    public float speed = 30;
     bool isJump;
     public GameManager manager;
     Rigidbody rigid;
@@ -32,7 +33,7 @@ public class Player : MonoBehaviour
     {
         float h = Input.GetAxisRaw("Horizontal");
         float v = Input.GetAxisRaw("Vertical");
-        rigid.AddForce(new Vector3(h, 0, v), ForceMode.Impulse);
+        rigid.AddForce(new Vector3(h, 0, v) * speed, ForceMode.Impulse);
     }
 
     private void OnCollisionEnter(Collision collision)
