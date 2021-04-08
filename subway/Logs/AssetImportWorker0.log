@@ -1,0 +1,1065 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.0f1 (61a549675243) revision 6399305'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'ko' Physical Memory: 16315 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/dlwjd/subway
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61978
+Successfully changed project path to: C:/Users/dlwjd/subway
+C:/Users/dlwjd/subway
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 70.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0f1 (61a549675243)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/dlwjd/subway/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
+    Vendor:   NVIDIA
+    VRAM:     8011 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004264 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 71.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.013 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006506 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.933 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2664 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 102.2 MB.
+System memory in use after: 102.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 3115.
+Total: 2.387100 ms (FindLiveObjects: 0.353500 ms CreateObjectMapping: 0.076000 ms MarkObjects: 1.873600 ms  DeleteObjects: 0.082500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/9t5 Low Poly Subway/FBXs/Turn Style.fbx
+  artifactKey: Guid(18ad699a8445585478129bd3011c9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Turn Style.fbx using Guid(18ad699a8445585478129bd3011c9321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ee50885492de1fde20494b7c3e57fdb') in 0.631929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 2.png
+  artifactKey: Guid(31f5d5ed0f8119b459d550f0f6a918af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 2.png using Guid(31f5d5ed0f8119b459d550f0f6a918af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba4519dacd709eea361d18d00549366') in 0.061853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 7.png
+  artifactKey: Guid(eb70f1d2ef2c93249b5c6a644cd1c842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 7.png using Guid(eb70f1d2ef2c93249b5c6a644cd1c842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c4a29015b083af2310900604ff6d3be') in 0.021466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Platform Top Wall.fbx
+  artifactKey: Guid(528e7bc0125997149b1f5c5f193bbb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Platform Top Wall.fbx using Guid(528e7bc0125997149b1f5c5f193bbb77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c06a6ca10296a455cb276238748574e') in 0.019731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Pillar.fbx
+  artifactKey: Guid(0399054b2aa90284e986171291ceb91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Pillar.fbx using Guid(0399054b2aa90284e986171291ceb91e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1cd5d30232a7aed09eef16351a0e1f') in 0.029750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Roof.fbx
+  artifactKey: Guid(f42bb20d47cb64a45b605ec38a33f8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Roof.fbx using Guid(f42bb20d47cb64a45b605ec38a33f8ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7c076265e8d4d17ab77415c425159c') in 0.023587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Platform.fbx
+  artifactKey: Guid(8c09f9476a265ed4a8d4b6ff0db29a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Platform.fbx using Guid(8c09f9476a265ed4a8d4b6ff0db29a30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '997c24731a666734a6c6440f2c7bb03c') in 0.025267 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Track Bend.fbx
+  artifactKey: Guid(27b1d7c73ac21434fbbe03a4123b158b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Track Bend.fbx using Guid(27b1d7c73ac21434fbbe03a4123b158b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6962ca77dba5d97c2a637093d911f55e') in 0.023776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Subway Lines.fbx
+  artifactKey: Guid(ce133f0abdc150440aba665174735b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Subway Lines.fbx using Guid(ce133f0abdc150440aba665174735b1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7db77db09687624cdee570ddfb8c9702') in 0.023277 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 1.png
+  artifactKey: Guid(8b0d342e5f43f624daf039b902276ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 1.png using Guid(8b0d342e5f43f624daf039b902276ade) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e63257bb1f864afb9f20119b27ee229') in 0.019000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 3.png
+  artifactKey: Guid(3e728bb53003cf04aabb4db035216776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 3.png using Guid(3e728bb53003cf04aabb4db035216776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3951ac81d4d5b576be2e2757e2a5ff87') in 0.016641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Train Car.fbx
+  artifactKey: Guid(0d8f7dd3f0fc0764b86795615af5686c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Train Car.fbx using Guid(0d8f7dd3f0fc0764b86795615af5686c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db77fac49d685ff116cb3726e9262371') in 0.131433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 1.mat
+  artifactKey: Guid(031c6debad5c8914fa67b95739e38bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 1.mat using Guid(031c6debad5c8914fa67b95739e38bf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d1962126d6113efa1b25dc2c3df216') in 0.038871 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 1.mat
+  artifactKey: Guid(1cd94b43a8b7663449b0a04863b6edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 1.mat using Guid(1cd94b43a8b7663449b0a04863b6edb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9b4f27e9e29e34ccc673c5156c15b9e') in 0.017055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 2.mat
+  artifactKey: Guid(fb7adc2c7893d3141813f7433b79b8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 2.mat using Guid(fb7adc2c7893d3141813f7433b79b8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab63a7b214841f8ab6e359026296d845') in 0.014840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 6_.mat
+  artifactKey: Guid(ccd1bd353e8704c4196d1cbeb178ec84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 6_.mat using Guid(ccd1bd353e8704c4196d1cbeb178ec84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f3df6b53cb7c6c286d77a45fc06b2d7') in 0.014105 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Pillar 3.mat
+  artifactKey: Guid(1ab14a82ed5d08949ae2f9ddba655dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Pillar 3.mat using Guid(1ab14a82ed5d08949ae2f9ddba655dbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ae3381047ee03c2af3ff1307725f53e') in 0.015577 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 3.mat
+  artifactKey: Guid(50e9d097ef24fe74aaa9a075681fec68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 3.mat using Guid(50e9d097ef24fe74aaa9a075681fec68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9f7ae5e186bcfdc0fd84bf672dcea2f') in 0.018089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 5.mat
+  artifactKey: Guid(9e6b2d3b16bffa242bb8a3d5c95f7562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 5.mat using Guid(9e6b2d3b16bffa242bb8a3d5c95f7562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69f4a4544e5d98ba747aa5e00b78b944') in 0.015497 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 1.mat
+  artifactKey: Guid(55061018383c4554b8eca0abc2f5f17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 1.mat using Guid(55061018383c4554b8eca0abc2f5f17b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72e8bf66308881ff64050c54ff42799') in 0.016295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Subway Lines 1.mat
+  artifactKey: Guid(ec8be11ddbcf07641ace15d188a577bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Subway Lines 1.mat using Guid(ec8be11ddbcf07641ace15d188a577bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da6b80bedc4e7e618cceea1d5879e600') in 0.014763 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 8.mat
+  artifactKey: Guid(324bd73825850f44abed1e4990400639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 8.mat using Guid(324bd73825850f44abed1e4990400639) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83464941d3d430c236b7c3fd47d974c4') in 0.015870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 1.mat
+  artifactKey: Guid(d83091211b11e2d4c8478cdcbdb7b946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 1.mat using Guid(d83091211b11e2d4c8478cdcbdb7b946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9ab95eefc00d6ed2d8b3d6ffda02a3') in 0.020214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 10.mat
+  artifactKey: Guid(6c177b6bf1c1fe24d9feb8c9b1fbae04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 10.mat using Guid(6c177b6bf1c1fe24d9feb8c9b1fbae04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e19521d47b451575ca8729a62ca894') in 0.015634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 6.mat
+  artifactKey: Guid(29c390c68fde31d4681009034f110853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 6.mat using Guid(29c390c68fde31d4681009034f110853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f68fb3ffd11a74bae29f48b9dbe153') in 0.016485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Sign 1.mat
+  artifactKey: Guid(a3714b4acaa19ef4f9df14ecbeb82a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Sign 1.mat using Guid(a3714b4acaa19ef4f9df14ecbeb82a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ef34e82edf5327414cba4812183ed02') in 0.016280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 4.mat
+  artifactKey: Guid(6df07cd116869c34cbd7249ed6ea8af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 4.mat using Guid(6df07cd116869c34cbd7249ed6ea8af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '638cbf9d37109ea1bd103e79cf3a3bab') in 0.015517 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 11.mat
+  artifactKey: Guid(acebaa3e15628b541bda85a4d5d78224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 11.mat using Guid(acebaa3e15628b541bda85a4d5d78224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af1a807a4921482783e00a3554548ffa') in 0.018944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Subway Bench 2.mat
+  artifactKey: Guid(be82c68296ab0224e86f3954e8514e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Subway Bench 2.mat using Guid(be82c68296ab0224e86f3954e8514e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbc4afb47ac6f6eba1ee3e346204611') in 0.017897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Ceiling Light 1.mat
+  artifactKey: Guid(4054b2f5337866d4280b575e33c4c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Ceiling Light 1.mat using Guid(4054b2f5337866d4280b575e33c4c2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0670c90ee35cd507ee26a61611af6d98') in 0.021548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Sign 4.mat
+  artifactKey: Guid(2b4cddeb4af04664eac2eb07054d26eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Sign 4.mat using Guid(2b4cddeb4af04664eac2eb07054d26eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9fc79fa43f4931adb629c8ca46366d6') in 0.016515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Staircase 2.mat
+  artifactKey: Guid(01cdc480b20891b4daa0bc6e27bb5942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Staircase 2.mat using Guid(01cdc480b20891b4daa0bc6e27bb5942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8e83d61967dbe3749840b454f4d11a') in 0.014157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Wall.fbx
+  artifactKey: Guid(85b77c7b08028ca4aae9395ec73e1821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Wall.fbx using Guid(85b77c7b08028ca4aae9395ec73e1821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2550c9c4e9d8c360dfc765c943169d4e') in 0.021256 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Sign.fbx
+  artifactKey: Guid(e16c6227a20274243b43891f53e129ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Sign.fbx using Guid(e16c6227a20274243b43891f53e129ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83ae98fa12fb16bd6860a01729c3cc8') in 0.026055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Subway Lines 2.mat
+  artifactKey: Guid(8119407073ed240498f913e1626e86c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Subway Lines 2.mat using Guid(8119407073ed240498f913e1626e86c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05448c768771597c37fca704ff9946f6') in 0.016631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 8.mat
+  artifactKey: Guid(75a4c81af41da624fa2428c91c4c3f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 8.mat using Guid(75a4c81af41da624fa2428c91c4c3f7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234e62d240c20170ce4f43d8cbd5bd8e') in 0.017869 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Sign 3.mat
+  artifactKey: Guid(39dc215edc045d843926029b760fc5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Sign 3.mat using Guid(39dc215edc045d843926029b760fc5cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '657d3fa65d2d7b9296119a4bb3963b5f') in 0.024064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 7.mat
+  artifactKey: Guid(0b29b658b839b494896f0177c0ebf832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 7.mat using Guid(0b29b658b839b494896f0177c0ebf832) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff939eaba94feb47e6e935ca43555ee') in 0.016840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Tunnel Straight 1.mat
+  artifactKey: Guid(20b4def841d80024dace1615a88865d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Tunnel Straight 1.mat using Guid(20b4def841d80024dace1615a88865d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755bf95c44edbc70769252aba0996b53') in 0.012946 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Sign 2.mat
+  artifactKey: Guid(42df74f8633ee424e83c9cb30bd45ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Sign 2.mat using Guid(42df74f8633ee424e83c9cb30bd45ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5c2710232f41f50dc4bbe9d3fb6c0de') in 0.015691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car Glass.mat
+  artifactKey: Guid(f660654f1dea7d846b3fce20354b0a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car Glass.mat using Guid(f660654f1dea7d846b3fce20354b0a8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd7024fde1d5609a5c26a764b1e59b6') in 0.014004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 7.mat
+  artifactKey: Guid(8d134175431be694c8d4c4870ca4b60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 7.mat using Guid(8d134175431be694c8d4c4870ca4b60c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0f08a8bff8a78f24d5f66e65cc5dedb') in 0.016808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Garbage Bin 1.mat
+  artifactKey: Guid(e888d2305805fb74b8e154bd20d48345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Garbage Bin 1.mat using Guid(e888d2305805fb74b8e154bd20d48345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72970d4c1a629a6398bcbca5c42af121') in 0.017101 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Arm Rail 1.mat
+  artifactKey: Guid(4ecc79d3b21382d4980eaeacc0a0ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Arm Rail 1.mat using Guid(4ecc79d3b21382d4980eaeacc0a0ad96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ebad4b72eee4b8223638777cf92a58e') in 0.015689 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Garbage Bin.fbx
+  artifactKey: Guid(7f9911952eea1334c9fb46504dbdf94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Garbage Bin.fbx using Guid(7f9911952eea1334c9fb46504dbdf94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd435a9f468c231e927a3e6665ca765') in 0.035500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Garbage Bin 2.mat
+  artifactKey: Guid(103774b01dd3dd640ad8d227968e7553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Garbage Bin 2.mat using Guid(103774b01dd3dd640ad8d227968e7553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748d8444543f7ac5e6f6c5f02ffa3911') in 0.014776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Subway Bench 1.mat
+  artifactKey: Guid(716b94bd0020de44c841d011efabe923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Subway Bench 1.mat using Guid(716b94bd0020de44c841d011efabe923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dae7a6f83898605aedc189177c25d4f') in 0.013567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Basic Block.fbx
+  artifactKey: Guid(85f11d9ff5c948647991609b5b8a1ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Basic Block.fbx using Guid(85f11d9ff5c948647991609b5b8a1ea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ec471423c005e73c26fa778f93561a5') in 0.023088 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Track Bend 1.mat
+  artifactKey: Guid(146103a8ef16309409d7f99af43bd25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Track Bend 1.mat using Guid(146103a8ef16309409d7f99af43bd25a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4197d97b8bbcf14e238b9dfad4237345') in 0.015307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 4.mat
+  artifactKey: Guid(61b0192c9074d6d47a500d47704d9719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 4.mat using Guid(61b0192c9074d6d47a500d47704d9719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94174b6b16381b656df44aed197887fa') in 0.013668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Staircase 1.mat
+  artifactKey: Guid(2c0b69901c77dff4794a7639d15fe167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Staircase 1.mat using Guid(2c0b69901c77dff4794a7639d15fe167) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e7986ac419df3764e93783af7a6b6f') in 0.017679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Arm Rail.fbx
+  artifactKey: Guid(585857227a1a5c542a4492c0e54197f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Arm Rail.fbx using Guid(585857227a1a5c542a4492c0e54197f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f374c67c9094e657e0cf98b3903ae54') in 0.017471 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Platform Top Wall 1.mat
+  artifactKey: Guid(98a6bda3a3826d74488b9fb16e7fb3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Platform Top Wall 1.mat using Guid(98a6bda3a3826d74488b9fb16e7fb3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab4b70f1ff5e10e326a5665e6f65800') in 0.013904 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 6.mat
+  artifactKey: Guid(b72a2f57beded5e4c98b48085a7f343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 6.mat using Guid(b72a2f57beded5e4c98b48085a7f343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38af8fec3519df3780a2d426d79cde28') in 0.018184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Subway Bench.fbx
+  artifactKey: Guid(8bf5e9236e46b5748b40b1435e8bead4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Subway Bench.fbx using Guid(8bf5e9236e46b5748b40b1435e8bead4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d5cca2889874fb77f745b6e12f10f2') in 0.026070 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Subway Lines 4.mat
+  artifactKey: Guid(8293217fa68612f4abc3853b9405d39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Subway Lines 4.mat using Guid(8293217fa68612f4abc3853b9405d39f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f4250d92f45637fd6c16c04b81211a') in 0.015064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 9.mat
+  artifactKey: Guid(c00b119e04a9d604dbf5190ec40b3052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 9.mat using Guid(c00b119e04a9d604dbf5190ec40b3052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd88e1a0d918877adbc7d9a5acf7a3760') in 0.013752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 7.mat
+  artifactKey: Guid(98fd93bd3d6955f4d9ba67d4c2d4f037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 7.mat using Guid(98fd93bd3d6955f4d9ba67d4c2d4f037) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d91db4f8876350b4382796c80301397') in 0.015554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Tunnel Bend 1.mat
+  artifactKey: Guid(e20714f051acd7b48950e3b81ee8e8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Tunnel Bend 1.mat using Guid(e20714f051acd7b48950e3b81ee8e8fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84947de2394edeb088920c80a1f7de0') in 0.014853 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Tunnel Top Wall.fbx
+  artifactKey: Guid(ae22f0c2c7ce64e4b93f0f05e4871690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Tunnel Top Wall.fbx using Guid(ae22f0c2c7ce64e4b93f0f05e4871690) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f433572b97d540973167b0f8b44c197a') in 0.019792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 7.mat
+  artifactKey: Guid(3d32eab73e3b5f5499b9aae696e8a46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 7.mat using Guid(3d32eab73e3b5f5499b9aae696e8a46e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04dc90fb93ffda473b1c12839d49e49c') in 0.018624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 9_.mat
+  artifactKey: Guid(5fd2af26b0333d04fb6a41398f5f1d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 9_.mat using Guid(5fd2af26b0333d04fb6a41398f5f1d5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735b462160ed29d100e8beb957e61855') in 0.017278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Platform Side.fbx
+  artifactKey: Guid(8aa55f141757b09438938e8558c71361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Platform Side.fbx using Guid(8aa55f141757b09438938e8558c71361) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45a3d237d218aebc7a4f8fe6e313ad50') in 0.021436 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Tunnel Bend.fbx
+  artifactKey: Guid(277719631bc4a7540b9b9b5c914f24fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Tunnel Bend.fbx using Guid(277719631bc4a7540b9b9b5c914f24fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298cd6be5d3f69b71bfadc1bb5bcb130') in 0.019360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 3.mat
+  artifactKey: Guid(8d297a7b2167a594084d4a02003872ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 3.mat using Guid(8d297a7b2167a594084d4a02003872ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70e24a089429562cd3868ffb4c551b03') in 0.017926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Soda Machine.fbx
+  artifactKey: Guid(b1d444afebdcb994b8bde4072833a85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Soda Machine.fbx using Guid(b1d444afebdcb994b8bde4072833a85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b352cfea2f20b01addeeb58adfd1846b') in 0.024747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 4.png
+  artifactKey: Guid(062de0e265a3cee41a94b0a58511ee0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 4.png using Guid(062de0e265a3cee41a94b0a58511ee0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '267255b112725885b2657e72cbec4fd1') in 0.023488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Ceiling Light 3.mat
+  artifactKey: Guid(401213a1bdeffd948b8999fb7738308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Ceiling Light 3.mat using Guid(401213a1bdeffd948b8999fb7738308b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed1c8fbf97b7c7296be311a7de863a6') in 0.016751 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 4.mat
+  artifactKey: Guid(f2d4bd6f310b278478c1e693c52d5a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 4.mat using Guid(f2d4bd6f310b278478c1e693c52d5a9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd969437182bf71124469d09e469dd1f7') in 0.016216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 10.mat
+  artifactKey: Guid(6a35d3cbef10b474f94280bbe0a6228a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 10.mat using Guid(6a35d3cbef10b474f94280bbe0a6228a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f2570c348d83790b87f1444dd327fa') in 0.016486 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Roof 2.mat
+  artifactKey: Guid(fd0f35f6cc0e7374b8c31b590258b2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Roof 2.mat using Guid(fd0f35f6cc0e7374b8c31b590258b2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '527c1961c6810396c7acad2e4858751f') in 0.016743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Track Straight 1.mat
+  artifactKey: Guid(0662bd8e9b4b2c040a13350b129e3ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Track Straight 1.mat using Guid(0662bd8e9b4b2c040a13350b129e3ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da7facceb467a0929780c8093d47c56') in 0.015451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 8.mat
+  artifactKey: Guid(07a3932520372784e93b058bb3caedca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 8.mat using Guid(07a3932520372784e93b058bb3caedca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd76be771d8b333ab9a7641d2e97d74c8') in 0.018012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs
+  artifactKey: Guid(72a0f8d679f78bc49863c6db3ee922e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs using Guid(72a0f8d679f78bc49863c6db3ee922e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3267c536f76c2ba94ad7fe66305684fa') in 0.008865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Basic Block 1.mat
+  artifactKey: Guid(3c80682f77a21a24988777330591072b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Basic Block 1.mat using Guid(3c80682f77a21a24988777330591072b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d62c8fde2a953ab284da9010429f154') in 0.014684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 5.png
+  artifactKey: Guid(d55df975cf26bd141ad890dac12f7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 5.png using Guid(d55df975cf26bd141ad890dac12f7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68eb6c9493aa9767e7cd49e464b9dfef') in 0.018493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Tunnel Straight.fbx
+  artifactKey: Guid(2467eb2889fe0744aac4ecc264cf99c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Tunnel Straight.fbx using Guid(2467eb2889fe0744aac4ecc264cf99c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f2c58157897d259e5c0e679600f4ae1') in 0.022004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Ceiling Light 2.mat
+  artifactKey: Guid(9d2df8d3f3091f348a1328c8638215fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Ceiling Light 2.mat using Guid(9d2df8d3f3091f348a1328c8638215fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1356693e3c700d2d955c0107b1b0b37f') in 0.088933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Sign.prefab
+  artifactKey: Guid(786dafa226a1e5148aef70d9bf61fc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Sign.prefab using Guid(786dafa226a1e5148aef70d9bf61fc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7d8d1cc791c527c2e402fde73f0199') in 0.024618 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Platform Side.prefab
+  artifactKey: Guid(e9b535858a2732f45a7725ce109189de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Platform Side.prefab using Guid(e9b535858a2732f45a7725ce109189de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4549c33597c7b8f1c36a7163c75fbe8') in 0.015466 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Track Bend.prefab
+  artifactKey: Guid(957668c041bb044469dfab44081f1614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Track Bend.prefab using Guid(957668c041bb044469dfab44081f1614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '331ee3ddb863157b231080695c5c8a7e') in 0.016816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Soda Machine.prefab
+  artifactKey: Guid(33119550df61c194399b72b459f19eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Soda Machine.prefab using Guid(33119550df61c194399b72b459f19eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd528cfe72072ac16722eb03d67f57fc0') in 0.018991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Basic Block.prefab
+  artifactKey: Guid(9889766b8f82ddb478c4cf3c7a018bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Basic Block.prefab using Guid(9889766b8f82ddb478c4cf3c7a018bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d2e4adc29e52badf62c78d36f47dac') in 0.012975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Lower Platform and Wall.prefab
+  artifactKey: Guid(a96582774c4934e4894c0eba16f5aaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Lower Platform and Wall.prefab using Guid(a96582774c4934e4894c0eba16f5aaa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b602f0db3e3fe0719329be60c7d499') in 0.014764 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Train Car.prefab
+  artifactKey: Guid(363f64bf902afed469f4e92000a1ee74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Train Car.prefab using Guid(363f64bf902afed469f4e92000a1ee74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0948b6bddd3629030ac63d3af2f74ed3') in 0.020841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Track Straight.prefab
+  artifactKey: Guid(7e7534d7f2ae77d47af36c7b240f37e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Track Straight.prefab using Guid(7e7534d7f2ae77d47af36c7b240f37e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8542652a9ff6fa03f8970ae2d5cef7ae') in 0.017990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Pillar.prefab
+  artifactKey: Guid(f8e38ca324365ce408e10ab8c97a5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Pillar.prefab using Guid(f8e38ca324365ce408e10ab8c97a5dd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572ea8c322695534a6cb05c4b0cabf91') in 0.019624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Ceiling Light.prefab
+  artifactKey: Guid(9c22df1e591b5c648a4685843d51b403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Ceiling Light.prefab using Guid(9c22df1e591b5c648a4685843d51b403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d1b2f53e0e1e1c663c3bbbd46e39e9b') in 0.021371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Subway Bench.prefab
+  artifactKey: Guid(14c1d1c15e308d04298b780ad057b8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Subway Bench.prefab using Guid(14c1d1c15e308d04298b780ad057b8cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b81d985262c1be6c31192ace61646d1') in 0.013657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Wall.prefab
+  artifactKey: Guid(d304be3c12f883848a05662ab04f90e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Wall.prefab using Guid(d304be3c12f883848a05662ab04f90e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1bf9ca926281716294d43766d2c0f84') in 0.014344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Wall Sign.prefab
+  artifactKey: Guid(4768fa3897d7984499ab2d4d3c1ca5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Wall Sign.prefab using Guid(4768fa3897d7984499ab2d4d3c1ca5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cccb8c8243555715b0d09e8dda37e94') in 0.019155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Platform Top Wall.prefab
+  artifactKey: Guid(46021ec51eb2bf34091787fc9a234358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Platform Top Wall.prefab using Guid(46021ec51eb2bf34091787fc9a234358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '859f9251d1c09b341978dc6531b424db') in 0.015236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Staircase.prefab
+  artifactKey: Guid(e9e9d3fe02f7a2f4689a2ac36cd628b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Staircase.prefab using Guid(e9e9d3fe02f7a2f4689a2ac36cd628b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11e47c1defa28cc4cefc00f0743d1aef') in 0.016311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Tunnel Straight.prefab
+  artifactKey: Guid(0f3d907fc447dd24586ba357b2104e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Tunnel Straight.prefab using Guid(0f3d907fc447dd24586ba357b2104e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef1c85623ae172b308d36461c4d9b28') in 0.014258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Roof 1.mat
+  artifactKey: Guid(7ea8dbf03c9a9af41a60bf7b5c58dac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Roof 1.mat using Guid(7ea8dbf03c9a9af41a60bf7b5c58dac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e513281fafc67dc5eff990c4acfeac7') in 0.018507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 5.mat
+  artifactKey: Guid(91977bc834e54cb44a9178b98280c733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 5.mat using Guid(91977bc834e54cb44a9178b98280c733) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83a4bca38bbdd9a7fe11091fac0e6c8f') in 0.017329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 9.mat
+  artifactKey: Guid(2f5cf06eb4efb5d42a1fb166f26a3fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 9.mat using Guid(2f5cf06eb4efb5d42a1fb166f26a3fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21cb11d8ee23cc9707231f40558e34b3') in 0.016132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Garbage Bin 3.mat
+  artifactKey: Guid(bc2d6306b89a96c4e8b2673420e06c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Garbage Bin 3.mat using Guid(bc2d6306b89a96c4e8b2673420e06c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6a5bfea389c679370ca8c88a1e3936c') in 0.015698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 2.mat
+  artifactKey: Guid(6b182433b89b5af41b1a80b7fbb4ef1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 2.mat using Guid(6b182433b89b5af41b1a80b7fbb4ef1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d100339def381e64ef13121f654dea4') in 0.015598 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Template Image.png
+  artifactKey: Guid(d61b3f6f23a4c3a4595f93b71f92307c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Template Image.png using Guid(d61b3f6f23a4c3a4595f93b71f92307c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bf6573824d003286019f57e29b904c5') in 0.019933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Turn Style.prefab
+  artifactKey: Guid(a659c19f1b772c94eacbd02a0b28b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Turn Style.prefab using Guid(a659c19f1b772c94eacbd02a0b28b523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2994a4e8c1c4a2825d3384ede2b636f5') in 0.025552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Subway Lines 3.mat
+  artifactKey: Guid(e8934ff26c26ae7449c0fe0302134d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Subway Lines 3.mat using Guid(e8934ff26c26ae7449c0fe0302134d72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '275ae5291d4b284bbc15cf527520feb7') in 0.017665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Platform Side 1.mat
+  artifactKey: Guid(f6105de1dbc74994dafe5a5403a3554d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Platform Side 1.mat using Guid(f6105de1dbc74994dafe5a5403a3554d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e36329416315663fdba0b65e6db9cd9') in 0.015740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Lower Platform and Wall.fbx
+  artifactKey: Guid(a570ff34d526b0d4b897705febde2c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Lower Platform and Wall.fbx using Guid(a570ff34d526b0d4b897705febde2c73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5620223b6507b1887bf56b9cb6b20041') in 0.018189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Platform 1.mat
+  artifactKey: Guid(8c2d5c50597631641b94d13396dcfa7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Platform 1.mat using Guid(8c2d5c50597631641b94d13396dcfa7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '430660c19a35b3d81ce551d5ad00fa80') in 0.017826 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Track Bend 2.mat
+  artifactKey: Guid(951f396f66b71cc4d84332987175e0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Track Bend 2.mat using Guid(951f396f66b71cc4d84332987175e0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8096a9b97e62ce2031588fb993c54f95') in 0.019018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car Glass.mat
+  artifactKey: Guid(37b56ec370ff01f44b283e7008086a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car Glass.mat using Guid(37b56ec370ff01f44b283e7008086a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '229399f69cc55edcffb7956a28f208f3') in 0.018567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 10.mat
+  artifactKey: Guid(63452ad46ce063f43817b5163aabb565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 10.mat using Guid(63452ad46ce063f43817b5163aabb565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4fc9c368cd6c508639695d22d91c4dc') in 0.016991 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Front Train Car.prefab
+  artifactKey: Guid(fb299b8eb36f32c42b561ce40a168963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Front Train Car.prefab using Guid(fb299b8eb36f32c42b561ce40a168963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22eb5b330c02140c16d58f9e0f0935db') in 0.030407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 6.mat
+  artifactKey: Guid(e788e96ae8d5394408c7b9fd7b64e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 6.mat using Guid(e788e96ae8d5394408c7b9fd7b64e4fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b414ef2dda41318edd8aac615850eeac') in 0.017522 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 10.mat
+  artifactKey: Guid(b69fec0f07cbe1f4a9a1af1051f2c4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 10.mat using Guid(b69fec0f07cbe1f4a9a1af1051f2c4dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73ae87da8dff5434e9186279f5f6f4b4') in 0.015884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 2.mat
+  artifactKey: Guid(febf26241cc994a458c3e8378dc01f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 2.mat using Guid(febf26241cc994a458c3e8378dc01f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f8fd7aee1ace76a5679d86b0227e7d1') in 0.017651 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Tunnel Top Wall.prefab
+  artifactKey: Guid(0d3ba8db29f044449b4ef03eafdb44cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Tunnel Top Wall.prefab using Guid(0d3ba8db29f044449b4ef03eafdb44cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aed2b81d1fb5afd86ffca93cfecbd6f') in 0.015090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Roof.prefab
+  artifactKey: Guid(c48ae754cf4b29f4c83b7182eba453bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Roof.prefab using Guid(c48ae754cf4b29f4c83b7182eba453bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90394ec1af9e144788e1a13c1d110213') in 0.014189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 8.mat
+  artifactKey: Guid(054f4cd14b4377645a95b94c45b6ea14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 8.mat using Guid(054f4cd14b4377645a95b94c45b6ea14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a9bd41ca42a3e721e0d6c55205cd73') in 0.015810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Platform Side 2.mat
+  artifactKey: Guid(42adb1ba736981d4485fe24ec27428e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Platform Side 2.mat using Guid(42adb1ba736981d4485fe24ec27428e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7e1f6318da87b0770adc18bb4219af') in 0.017881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 3.mat
+  artifactKey: Guid(dbb5e0c0b4d8ad14aa4f5d8c614254d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 3.mat using Guid(dbb5e0c0b4d8ad14aa4f5d8c614254d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4de5457994db48c0ef8f4b2ea632ec5d') in 0.016112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Lower Platform and Wall.mat
+  artifactKey: Guid(c42e13954211ac64b893555c5177ecb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Lower Platform and Wall.mat using Guid(c42e13954211ac64b893555c5177ecb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5dad031c63923ba6752c1ebdde84140') in 0.012304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 2.mat
+  artifactKey: Guid(41e6e8bf9af0f064eac6ecfaaed73545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 2.mat using Guid(41e6e8bf9af0f064eac6ecfaaed73545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d4d4e6e82dbb3be2de1659ea1f8638') in 0.016191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Ceiling Light.fbx
+  artifactKey: Guid(c828986c3f8ff9d4396ed869b4f5a187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Ceiling Light.fbx using Guid(c828986c3f8ff9d4396ed869b4f5a187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02842957069df3c3ab9dd32956865e3b') in 0.019067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Track Straight 2.mat
+  artifactKey: Guid(00aa29222f70c03458665b78380092ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Track Straight 2.mat using Guid(00aa29222f70c03458665b78380092ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a9663bbaa598aa3e23fa203a14f06cc') in 0.015229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Platform.prefab
+  artifactKey: Guid(f2aa5e45fc1d5e74c81833541e594d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Platform.prefab using Guid(f2aa5e45fc1d5e74c81833541e594d66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546af845a58ceed6df7846438d9c6bb9') in 0.014460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 6.png
+  artifactKey: Guid(8f79b0a0a09ae2f408e4bb2d91102dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 6.png using Guid(8f79b0a0a09ae2f408e4bb2d91102dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9323142a37a43c95a9bac7a94f82117e') in 0.017508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Tunnel Bend.prefab
+  artifactKey: Guid(ccaba7b4c3cbac74a9bd956dec4f82e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Tunnel Bend.prefab using Guid(ccaba7b4c3cbac74a9bd956dec4f82e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067f6bc2d784977ca05fd980ab4ded65') in 0.014371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 5.mat
+  artifactKey: Guid(0df238288e20dc043aa9b0f5c1ef99cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 5.mat using Guid(0df238288e20dc043aa9b0f5c1ef99cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f521c861d9db9d8df72ecd679cb9818') in 0.016580 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Wall Sign.fbx
+  artifactKey: Guid(031504af67408ab4fbb1bda1ffb806eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Wall Sign.fbx using Guid(031504af67408ab4fbb1bda1ffb806eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87771394a7e6b9dc4748ee07ae422aec') in 0.022089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(56c002d700081264cb2a95fa570e026f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(56c002d700081264cb2a95fa570e026f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7662e9694b8d1f105eb88eb9400a51ba') in 0.007843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images/Design 8.png
+  artifactKey: Guid(dd2ce2ce6d5bf2743a4c275cbd94cd99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images/Design 8.png using Guid(dd2ce2ce6d5bf2743a4c275cbd94cd99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26f15a91a2aeb0ffd30ac9b239f69d00') in 0.013600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Control Panel 5.mat
+  artifactKey: Guid(915a400b130f4a44aa2b0d73528ddb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Control Panel 5.mat using Guid(915a400b130f4a44aa2b0d73528ddb5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026ea093826bf42bb94ed6c784a50bc3') in 0.015444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Garbage Bin.prefab
+  artifactKey: Guid(151edd55dac8c7d43925b9f714e69d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Garbage Bin.prefab using Guid(151edd55dac8c7d43925b9f714e69d61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40beb40acfe05b1d5d33fdd37762a922') in 0.014494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/9t5 Low Poly Subway/Prefabs/Subway Lines.prefab
+  artifactKey: Guid(c73dd46986d603f479496b0994302998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Prefabs/Subway Lines.prefab using Guid(c73dd46986d603f479496b0994302998) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8786c42f2e1e815703ff84617a43590') in 0.012563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Front Train Car.fbx
+  artifactKey: Guid(75272691eed499c4c839f6815375591b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Front Train Car.fbx using Guid(75272691eed499c4c839f6815375591b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f66c6d57680b7f41373dfd8f652dcae8') in 0.137746 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Track Straight.fbx
+  artifactKey: Guid(37eaef8766e397f4aa03ef49d71df119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Track Straight.fbx using Guid(37eaef8766e397f4aa03ef49d71df119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6360cc822f003b80750a647068a5f8') in 0.015825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Soda Machine 4.mat
+  artifactKey: Guid(7dacd2c0adab9f24ab1de355201eb204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Soda Machine 4.mat using Guid(7dacd2c0adab9f24ab1de355201eb204) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c252f30a805451199a2fe2a8a1e0d642') in 0.014531 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Ground.mat
+  artifactKey: Guid(600503a4af4de58459fc3a2fca617ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Ground.mat using Guid(600503a4af4de58459fc3a2fca617ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2399380257f0a789c7a3014e3b4a6c11') in 0.014226 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Pillar 2.mat
+  artifactKey: Guid(2be26e6fea4d785488be4bb2bd767e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Pillar 2.mat using Guid(2be26e6fea4d785488be4bb2bd767e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7876f07149707f9760795f2e3e107185') in 0.015980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Pillar 1.mat
+  artifactKey: Guid(ac9513c5f6d391340a2c5dd8dd9b2da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Pillar 1.mat using Guid(ac9513c5f6d391340a2c5dd8dd9b2da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94399c9d16cdd879ee52427c136b8c50') in 0.014200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 3.mat
+  artifactKey: Guid(c48ddb260b4330149843c675d2e41173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 3.mat using Guid(c48ddb260b4330149843c675d2e41173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '022d7c47ede360cad1e3fd54eed02251') in 0.015982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Train Car 9.mat
+  artifactKey: Guid(59242d5389511c344a1ec9d9b56fdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Train Car 9.mat using Guid(59242d5389511c344a1ec9d9b56fdd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e612321e744a002b4e2f2e3265a9e96a') in 0.014995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Front Train Car 12.mat
+  artifactKey: Guid(960ffafaa950762448b03af8d575633d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Front Train Car 12.mat using Guid(960ffafaa950762448b03af8d575633d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f696ffeadafa1f7e2d4d34145b365047') in 0.013542 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/9t5 Low Poly Subway/FBXs/Staircase.fbx
+  artifactKey: Guid(8a08c2acdb899bf44a48d70646d17269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/FBXs/Staircase.fbx using Guid(8a08c2acdb899bf44a48d70646d17269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40165bd7b44900e05cd5634777b9ec11') in 0.015168 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.717204 seconds.
+  path: Assets/9t5 Low Poly Subway/Graphic Images
+  artifactKey: Guid(af73a8b4093ad8045893ef1ac7b8304a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Graphic Images using Guid(af73a8b4093ad8045893ef1ac7b8304a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce1b5ef2836a9a89825554c85441483') in 0.008204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.145742 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials
+  artifactKey: Guid(04982bc11e721544a8dfcc15da4ec2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials using Guid(04982bc11e721544a8dfcc15da4ec2d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c340addb96c0007d77fa9f2938b855') in 0.007999 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.530500 seconds.
+  path: Packages/com.unity.ext.nunit
+  artifactKey: Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit using Guid(25a477c2f24db8778a4179421a32cc21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8802a63c3de6f0a8d53dd0c6894bbecf') in 0.008500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.068834 seconds.
+  path: Packages/com.unity.ext.nunit/package.json
+  artifactKey: Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ext.nunit/package.json using Guid(8143d3a8390f2c64685e3bc272bd9e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6212cbe9fd2351f6009d88017aa38e2a') in 0.020398 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.083475 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Tunnel Top Wall 1.mat
+  artifactKey: Guid(d0f2c31fedac0df4d95f96f318f7ea22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Tunnel Top Wall 1.mat using Guid(d0f2c31fedac0df4d95f96f318f7ea22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936b119fc125c20fddf4d6f223386664') in 0.015918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall 1.mat
+  artifactKey: Guid(ac4872464f9d1e84b92b685a5e27f854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall 1.mat using Guid(ac4872464f9d1e84b92b685a5e27f854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36d1ad8db8cfd69479d6b2335fb04f84') in 0.014703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Turn Style 3.mat
+  artifactKey: Guid(f87815a6627cc454394cae472f425a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Turn Style 3.mat using Guid(f87815a6627cc454394cae472f425a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b740b4751e3fd68798fb194f6578da69') in 0.015818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall 2.mat
+  artifactKey: Guid(830343809e16e504eb424abf950a240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall 2.mat using Guid(830343809e16e504eb424abf950a240b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f97b5a08385818eee1f5555b4c8b5f4') in 0.014623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 2.mat
+  artifactKey: Guid(1e79de0bf39c29a4b9b2e52c4492ae22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 2.mat using Guid(1e79de0bf39c29a4b9b2e52c4492ae22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49ed190d7d69f4f2b481c1e6bbe3fff0') in 0.020728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 5.mat
+  artifactKey: Guid(6d55f2d90e0cb954aa62a948ab84561f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 5.mat using Guid(6d55f2d90e0cb954aa62a948ab84561f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685de6f4ec1df7aa7bf53a41ab71ab7b') in 0.014539 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 4.mat
+  artifactKey: Guid(e3aa0b73091373d459050c24fd11ad52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 4.mat using Guid(e3aa0b73091373d459050c24fd11ad52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36eb420a048d64017fbe09e6c1a4b1a8') in 0.016143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 11.mat
+  artifactKey: Guid(c7d1fc4c7af13a3409853dd7ae83403b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 11.mat using Guid(c7d1fc4c7af13a3409853dd7ae83403b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd474602517773feb378f856b291763a') in 0.015503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 7.mat
+  artifactKey: Guid(7ee457899ffb8c543a6fc89b53dfa3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 7.mat using Guid(7ee457899ffb8c543a6fc89b53dfa3b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7717b01b9b21fda7ee0f7b513f86960') in 0.018844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 9.mat
+  artifactKey: Guid(1cf69e7e22e07f340aa4b763e233bc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 9.mat using Guid(1cf69e7e22e07f340aa4b763e233bc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35bb2733c5c6ca09e977dd920aad21a4') in 0.016391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Turn Style 2.mat
+  artifactKey: Guid(3a727ce8024ecda41810eeae12bbe7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Turn Style 2.mat using Guid(3a727ce8024ecda41810eeae12bbe7be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e2732dc618ead3fec5f66d2ac14ef7') in 0.016674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 6.mat
+  artifactKey: Guid(1aafb37dc58a6ad45ab8c1e067ea8666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 6.mat using Guid(1aafb37dc58a6ad45ab8c1e067ea8666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8269c92e3cc4bf72e912d97cf903fb7') in 0.017733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Turn Style 1.mat
+  artifactKey: Guid(4a80311613c80624c88022fe0e873169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Turn Style 1.mat using Guid(4a80311613c80624c88022fe0e873169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4016f955a3bac57ded9270649eb6bb08') in 0.015958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 8.mat
+  artifactKey: Guid(87eeb123423e45940aabe218eb5cd253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 8.mat using Guid(87eeb123423e45940aabe218eb5cd253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df045055089d0b45aa2d79a3865ad867') in 0.016960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 3.mat
+  artifactKey: Guid(67a460f61c71c714fb933dc3f7a27bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 3.mat using Guid(67a460f61c71c714fb933dc3f7a27bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a655df049c6735d88b4af2e7d688d42') in 0.015113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Turn Style Glass.mat
+  artifactKey: Guid(f8dbce1beb2e8c749806b9b57b179765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Turn Style Glass.mat using Guid(f8dbce1beb2e8c749806b9b57b179765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37f7527a399bc2a2d365a38e077381d5') in 0.017215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 1.mat
+  artifactKey: Guid(64b1b9b166bd7d048adb518657787dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 1.mat using Guid(64b1b9b166bd7d048adb518657787dc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c76a4eccb4c369d95d2ed9eff6a70cf') in 0.014750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/9t5 Low Poly Subway/Materials/Wall Sign 10.mat
+  artifactKey: Guid(49445c4ae30af1648b6e63918013930b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Materials/Wall Sign 10.mat using Guid(49445c4ae30af1648b6e63918013930b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68232c2fd96d4f31b17cb0e8305bb24c') in 0.016916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.704586 seconds.
+  path: Assets/9t5 Low Poly Subway/Scenes/Demo.unity
+  artifactKey: Guid(3478c0725a76be34c816e002641022fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Scenes/Demo.unity using Guid(3478c0725a76be34c816e002641022fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bb252bdac74b9e3ec02ed7f26237824') in 0.008620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.681512 seconds.
+  path: Assets/9t5 Low Poly Subway/Scenes/DemoSettings.lighting
+  artifactKey: Guid(17c0d70630313cd409d22466c03f42c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Scenes/DemoSettings.lighting using Guid(17c0d70630313cd409d22466c03f42c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9578652fe3946cfbffa5210b234c14') in 0.010460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.461908 seconds.
+  path: Assets/9t5 Low Poly Subway/Scenes/Layout.unity
+  artifactKey: Guid(a7d4dbd0be6b8b746b69375ccdb95bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/9t5 Low Poly Subway/Scenes/Layout.unity using Guid(a7d4dbd0be6b8b746b69375ccdb95bc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '591261acf4916c38729a86c43dec83c9') in 0.008458 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
