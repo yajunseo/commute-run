@@ -324,6 +324,9 @@
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Gold.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Supercyan Character Pack Free Sample/Scripts/DemoFree.cs"
+"Assets/Supercyan Character Pack Free Sample/Scripts/FreeCameraLogic.cs"
+"Assets/Supercyan Character Pack Free Sample/Scripts/SimpleSampleCharacterControl.cs"
 -langversion:8.0
 
 /deterministic

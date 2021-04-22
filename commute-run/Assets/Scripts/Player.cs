@@ -12,12 +12,14 @@ public class Player : MonoBehaviour
     public GameManager manager;
     Rigidbody rigid;
     AudioSource audio;
+    Animator anim;
 
     private void Awake()
     {
-        isJump = false;
+        isJump = true;
         rigid = GetComponent<Rigidbody>();
         audio = GetComponent<AudioSource>();
+        anim = GetComponent<Animator>();
     }
 
     private void Update()
@@ -34,6 +36,11 @@ public class Player : MonoBehaviour
         float h = Input.GetAxisRaw("Horizontal");
         float v = Input.GetAxisRaw("Vertical");
         rigid.AddForce(new Vector3(h, 0, v) * speed, ForceMode.Impulse);
+         Vector2 vec2 = new Vector2(rigid.velocity.x, rigid.velocity.z);
+        anim.SetFloat("Speed", vec2.magnitude);
+
+        //anim.SetFloat("Speed", rigid.velocity.magnitude);
+        anim.SetBool("IsJump", isJump);
     }
 
     private void OnCollisionEnter(Collision collision)
