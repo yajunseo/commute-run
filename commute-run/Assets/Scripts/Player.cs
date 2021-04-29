@@ -13,6 +13,9 @@ public class Player : MonoBehaviour
     Rigidbody rigid;
     AudioSource audio;
     Animator anim;
+    CharacterController controller;
+    public float rotateSpeed = 2.0f;
+ 
 
     private void Awake()
     {
@@ -20,6 +23,7 @@ public class Player : MonoBehaviour
         rigid = GetComponent<Rigidbody>();
         audio = GetComponent<AudioSource>();
         anim = GetComponent<Animator>();
+        controller = GetComponent<CharacterController>();
     }
 
     private void Update()
@@ -41,6 +45,27 @@ public class Player : MonoBehaviour
 
         //anim.SetFloat("Speed", rigid.velocity.magnitude);
         anim.SetBool("IsJump", isJump);
+
+
+        //Vector3 fdir = transform.forward;
+        //Quaternion r1 = Quaternion.Euler(dir);
+        //Quaternion r2 = Quaternion.Euler(fdir);
+
+        ////Debug.Log("dir : " + dir.x + " " + dir.y + " " + dir.z);
+        ////Debug.Log("fdir : " + fdir.x + " " + fdir.y + " " + fdir.z);
+        //Debug.Log(fdir.x + " " + fdir.y + " " + fdir.z);
+        //Debug.Log(r1);
+        //Debug.Log(r2);
+
+        //transform.rotation = Quaternion.Lerp(r1, r2, Time.deltaTime * 0.5f);
+
+        //dir = fdir;
+
+        transform.Rotate(0, h * rotateSpeed, 0);
+
+        var forward = transform.TransformDirection(Vector3.forward);
+        //var curSpeed = speed * Input.GetAxis("Vertical");
+        //controller.SimpleMove(forward * curSpeed);
     }
 
     private void OnCollisionEnter(Collision collision)
