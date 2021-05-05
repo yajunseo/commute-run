@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1904
     height: 981
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -584,8 +584,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 04460000
-      m_LastClickedID: 17924
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 56fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -701,7 +701,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 3.6339743
     speed: 2
-    m_Value: 3.3339744
+    m_Value: 3.6339743
   m_Ortho:
     m_Target: 0
     speed: 2
