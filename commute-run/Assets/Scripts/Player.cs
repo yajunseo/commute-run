@@ -90,9 +90,12 @@ public class Player : MonoBehaviour
 
         else if (other.tag == "Finish")
         {
+            //int stageNum = manager.stage;
             if (manager.TotalGoldCount == GoldCount)
             {
                 SceneManager.LoadScene(manager.stage + 1);
+
+                //Debug.Log("aa" + manager.stage);
             }
             else
             {

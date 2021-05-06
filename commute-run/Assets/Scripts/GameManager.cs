@@ -15,6 +15,12 @@ public class GameManager : MonoBehaviour
     {
         TotalGoldCount = GameObject.FindGameObjectsWithTag("Gold").Length;
         StageGoldCntText.text = "/ " +( GameObject.FindGameObjectsWithTag("Gold").Length).ToString();
+
+        //if(TotalGoldCount == 0)
+        //{
+        //    TotalGoldCount = GameObject.FindGameObjectsWithTag("Coin").Length;
+        //    StageGoldCntText.text = "/ " + (GameObject.FindGameObjectsWithTag("Coin").Length).ToString();
+        //}
     }
 
     public void GetGold(int count)
