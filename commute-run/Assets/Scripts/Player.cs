@@ -51,25 +51,25 @@ public class Player : MonoBehaviour
         anim.SetBool("IsJump", isJump);
 
 
-        //Vector3 fdir = transform.forward;
-        //Quaternion r1 = Quaternion.Euler(dir);
-        //Quaternion r2 = Quaternion.Euler(fdir);
+        ////Vector3 fdir = transform.forward;
+        ////Quaternion r1 = Quaternion.Euler(dir);
+        ////Quaternion r2 = Quaternion.Euler(fdir);
 
-        ////Debug.Log("dir : " + dir.x + " " + dir.y + " " + dir.z);
-        ////Debug.Log("fdir : " + fdir.x + " " + fdir.y + " " + fdir.z);
-        //Debug.Log(fdir.x + " " + fdir.y + " " + fdir.z);
-        //Debug.Log(r1);
-        //Debug.Log(r2);
+        //////Debug.Log("dir : " + dir.x + " " + dir.y + " " + dir.z);
+        //////Debug.Log("fdir : " + fdir.x + " " + fdir.y + " " + fdir.z);
+        ////Debug.Log(fdir.x + " " + fdir.y + " " + fdir.z);
+        ////Debug.Log(r1);
+        ////Debug.Log(r2);
 
-        //transform.rotation = Quaternion.Lerp(r1, r2, Time.deltaTime * 0.5f);
+        ////transform.rotation = Quaternion.Lerp(r1, r2, Time.deltaTime * 0.5f);
 
-        //dir = fdir;
+        ////dir = fdir;
 
-        transform.Rotate(0, h * rotateSpeed, 0);
+        //transform.Rotate(0, h * rotateSpeed, 0);
 
-        var forward = transform.TransformDirection(Vector3.forward);
-        //var curSpeed = speed * Input.GetAxis("Vertical");
-        //controller.SimpleMove(forward * curSpeed);
+        //var forward = transform.TransformDirection(Vector3.forward);
+        ////var curSpeed = speed * Input.GetAxis("Vertical");
+        ////controller.SimpleMove(forward * curSpeed);
     }
 
     private void OnCollisionEnter(Collision collision)

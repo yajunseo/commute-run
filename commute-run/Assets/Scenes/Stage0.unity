@@ -7994,7 +7994,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   jumpPower: 60
   GoldCount: 0
-  speed: 30
+  speed: 50
   manager: {fileID: 42461164}
   rotateSpeed: 2
 --- !u!65 &1330790610
