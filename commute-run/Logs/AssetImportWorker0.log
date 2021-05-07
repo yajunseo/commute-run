@@ -1,141 +1,101 @@
 Using pre-set license
 Built from '2021.1/release' branch; Version is '2021.1.0f1 (61a549675243) revision 6399305'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.928; Version 2009; 64bit' Language: 'ko' Physical Memory: 16330 MB
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'ko' Physical Memory: 16315 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Unity\2021.1.0f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2021.1.0f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/t1sna/Desktop/engin/commute-run/commute-run
+C:/Users/dlwjd/commute-run/commute-run
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-12680
-Successfully changed project path to: C:/Users/t1sna/Desktop/engin/commute-run/commute-run
-C:/Users/t1sna/Desktop/engin/commute-run/commute-run
+54922
+Successfully changed project path to: C:/Users/dlwjd/commute-run/commute-run
+C:/Users/dlwjd/commute-run/commute-run
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 20.71 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 28.03 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.0f1 (61a549675243)
-[Subsystems] Discovering subsystems at path C:/Unity/2021.1.0f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/t1sna/Desktop/engin/commute-run/commute-run/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/dlwjd/commute-run/commute-run/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Renderer: NVIDIA GeForce RTX 2070 SUPER (ID=0x1e84)
     Vendor:   NVIDIA
-    VRAM:     2988 MB
-    Driver:   27.21.14.6192
+    VRAM:     8011 MB
+    Driver:   27.21.14.5671
 Initialize mono
-Mono path[0] = 'C:/Unity/2021.1.0f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Unity/2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Unity/2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56360
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56100
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Unity/2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001355 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002965 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 20.59 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 27.11 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.894 seconds
+- Completed reload, in  1.669 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000796 seconds.
+Registered in 0.000944 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.648 seconds
+- Completed reload, in  0.950 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1146 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.5 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1626.
+Total: 2.166300 ms (FindLiveObjects: 0.171900 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.852000 ms  DeleteObjects: 0.112800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(618b9e5001ffed0418d1baad9306e5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(618b9e5001ffed0418d1baad9306e5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5a0217341732acd79e2705ece112b46') in 0.013943 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.085998 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(64cea995732992744ab5f7fbd553a41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(64cea995732992744ab5f7fbd553a41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccbba18f8b9b3328de28a107f967023a') in 0.013945 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.719 seconds
+Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1145 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 77.1 MB.
+Unloading 1138 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.2 MB.
 System memory in use after: 77.2 MB.
 
-Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1623.
-Total: 2.092300 ms (FindLiveObjects: 0.214700 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.754900 ms  DeleteObjects: 0.078800 ms)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1629.
+Total: 1.635300 ms (FindLiveObjects: 0.140800 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.393900 ms  DeleteObjects: 0.071300 ms)
 
-========================================================================
-Received Import Request.
-  path: Assets/New Terrain.asset
-  artifactKey: Guid(982a66c4af2d7734c9f528ff75f6f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain.asset using Guid(982a66c4af2d7734c9f528ff75f6f4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e9d5995e479e2aadd21c847408557af') in 0.059638 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000106 seconds.
-  path: Assets/NewLayer 2.terrainlayer
-  artifactKey: Guid(3deffc578974cbd46aa0d167131a2b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewLayer 2.terrainlayer using Guid(3deffc578974cbd46aa0d167131a2b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c9be00a8c3ad02f6d276467456af5a') in 0.029617 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000102 seconds.
-  path: Assets/NewLayer.terrainlayer
-  artifactKey: Guid(9ea687f8500ebe04299ff20dcdb4f781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewLayer.terrainlayer using Guid(9ea687f8500ebe04299ff20dcdb4f781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4804acdfba2b53190233901803f59cdf') in 0.010479 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000102 seconds.
-  path: Assets/NewLayer 1.terrainlayer
-  artifactKey: Guid(1b34be0e064874d43b66a17b2f98b188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewLayer 1.terrainlayer using Guid(1b34be0e064874d43b66a17b2f98b188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f37e90241366a3d8047ef149d1c20d14') in 0.011957 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000109 seconds.
-  path: Assets/NewLayer 4.terrainlayer
-  artifactKey: Guid(36d520f12cb7bc941a5e7221b5814835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/NewLayer 4.terrainlayer using Guid(36d520f12cb7bc941a5e7221b5814835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db37ad3b7281346a7fb2ae3f010aecd3') in 0.010841 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 29.946264 seconds.
-  path: Assets/Scenes/Stage0.unity
-  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Stage0.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aa27ab6a9f9d5044fc1e69f41039028') in 0.006511 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.015756 seconds.
-  path: Assets/Scenes/Stage1.unity
-  artifactKey: Guid(3478c0725a76be34c816e002641022fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Stage1.unity using Guid(3478c0725a76be34c816e002641022fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643e065bdff26443235193fc25f2a910') in 0.007048 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.614684 seconds.
-  path: Assets/Scenes/Stage2.unity
-  artifactKey: Guid(dd07739c6c9fb8d4aac44a4c416701c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Stage2.unity using Guid(dd07739c6c9fb8d4aac44a4c416701c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5ecb6babdcf280d800f22df682f4f9d') in 0.006276 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 48.476655 seconds.
-  path: Assets/Fantasy Forest Environment Free Sample/Textures/grass01.tga
-  artifactKey: Guid(6c41a2cea80b4fc499bac2a6c14a4514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fantasy Forest Environment Free Sample/Textures/grass01.tga using Guid(6c41a2cea80b4fc499bac2a6c14a4514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dab47593295eacfd48a520e3a9ca25b') in 0.011378 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000131 seconds.
-  path: Assets/LowpolyStreetPack/Meshes/Textures/mud.png
-  artifactKey: Guid(f25d78572808cbb4fbf0a3a24f1c3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowpolyStreetPack/Meshes/Textures/mud.png using Guid(f25d78572808cbb4fbf0a3a24f1c3880) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5974d490e052b91a7e071f87c4b14a04') in 0.042097 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000127 seconds.
-  path: Assets/Fantasy Forest Environment Free Sample/Textures/grass01_b.tga
-  artifactKey: Guid(b69992f31e7145e4ba49aa8118c5541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fantasy Forest Environment Free Sample/Textures/grass01_b.tga using Guid(b69992f31e7145e4ba49aa8118c5541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86c569dd1825736e5f99025f5e66e1c3') in 0.008977 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000100 seconds.
-  path: Assets/Fantasy Forest Environment Free Sample/Textures/dirt01.tga
-  artifactKey: Guid(30ec70ef60a2bb54ea2df6f72c77bdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Fantasy Forest Environment Free Sample/Textures/dirt01.tga using Guid(30ec70ef60a2bb54ea2df6f72c77bdc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28be329a66240a0eeffd120fabe16a9d') in 0.009858 seconds 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
