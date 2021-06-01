@@ -86,6 +86,7 @@ public class Player : MonoBehaviour
             audio.Play();
             other.gameObject.SetActive(false);
             manager.GetGold(GoldCount);
+            globalValue.score += 1;
         }
 
         else if (other.tag == "Finish")
@@ -94,7 +95,7 @@ public class Player : MonoBehaviour
             if (manager.TotalGoldCount == GoldCount)
             {
                 if(manager.stage == 2)
-                    SceneManager.LoadScene(3);
+                    SceneManager.LoadScene(4);
 
                 else
                     SceneManager.LoadScene(manager.stage + 1);

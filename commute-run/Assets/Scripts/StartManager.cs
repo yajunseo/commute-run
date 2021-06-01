@@ -38,4 +38,6 @@ public class StartManager : MonoBehaviour
     {
         SceneManager.LoadScene(3);
     }
+
+
 }
