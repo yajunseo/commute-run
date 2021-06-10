@@ -46,7 +46,7 @@ public class Player : MonoBehaviour
         float scale = movement.magnitude;
         anim.SetFloat("Speed", scale * speed);
      
-        Debug.Log(vec2.magnitude);
+        //Debug.Log(vec2.magnitude);
         //anim.SetFloat("Speed", rigid.velocity.magnitude);
         anim.SetBool("IsJump", isJump);
 

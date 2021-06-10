@@ -319,6 +319,8 @@
 "Assets/ObstacleCoursePack/Scripts/SavePos.cs"
 "Assets/ObstacleCoursePack/Scripts/WallMovable.cs"
 "Assets/pauseScript.cs"
+"Assets/Scripts/beeScript.cs"
+"Assets/Scripts/beeSpawn.cs"
 "Assets/Scripts/Camera.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Gold.cs"
