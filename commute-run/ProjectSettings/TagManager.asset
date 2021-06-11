@@ -8,6 +8,7 @@ TagManager:
   - Gold
   - Obstacle1
   - Obstacle1Range
+  - RotationObsacle
   layers:
   - Default
   - TransparentFX

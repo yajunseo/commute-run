@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
 {
     public int TotalGoldCount;
     public int stage;
+    public int RoationObsacle;
     public Text PlayerGoldCntText;
     public Text StageGoldCntText;
     public Text scoreText;
@@ -65,7 +66,11 @@ public class GameManager : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Player")
+        if (other.tag == "Player")
+        {
+            SceneManager.LoadScene(stage);
+        }
+        else if (other.tag == "RoationObsacle")
         {
             SceneManager.LoadScene(stage);
         }

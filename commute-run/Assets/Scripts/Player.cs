@@ -45,7 +45,7 @@ public class Player : MonoBehaviour
         Vector3 movement = new Vector3(h, v, 0.0f);
         float scale = movement.magnitude;
         anim.SetFloat("Speed", scale * speed);
-     
+
         //Debug.Log(vec2.magnitude);
         //anim.SetFloat("Speed", rigid.velocity.magnitude);
         anim.SetBool("IsJump", isJump);
@@ -94,7 +94,7 @@ public class Player : MonoBehaviour
             //int stageNum = manager.stage;
             if (manager.TotalGoldCount == GoldCount)
             {
-                if(manager.stage == 2)
+                if (manager.stage == 2)
                     SceneManager.LoadScene(4);
 
                 else
@@ -107,5 +107,10 @@ public class Player : MonoBehaviour
                 SceneManager.LoadScene(manager.stage);
             }
         }
+       
+        else if (other.tag == "RoationObsacle")
+            {
+                SceneManager.LoadScene(manager.stage);
+            }
+        }
     }
-}
