@@ -6,12 +6,13 @@ public class MoveOb2 : MonoBehaviour
 {
     public float startTime;
     public float minX, maxX;
+    
+    [Range (1, 100)]
     public float moveSpeed;
+    private int sign = -1;
 
-    private float sign = -1;
 
-
-    private void Update()
+    void FixedUpdate()
     {
         if (Time.time >= startTime)
         {

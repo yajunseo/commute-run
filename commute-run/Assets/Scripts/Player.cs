@@ -107,10 +107,5 @@ public class Player : MonoBehaviour
                 SceneManager.LoadScene(manager.stage);
             }
         }
-       
-        else if (other.tag == "RoationObsacle")
-            {
-                SceneManager.LoadScene(manager.stage);
-            }
-        }
     }
+}

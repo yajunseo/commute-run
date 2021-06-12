@@ -70,9 +70,5 @@ public class GameManager : MonoBehaviour
         {
             SceneManager.LoadScene(stage);
         }
-        else if (other.tag == "RoationObsacle")
-        {
-            SceneManager.LoadScene(stage);
-        }
     }
 }
