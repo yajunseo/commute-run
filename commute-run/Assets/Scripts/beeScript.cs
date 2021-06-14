@@ -11,7 +11,10 @@ public class beeScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        gameObject.gameObject.tag = "Obstacle";
+        gameObject.AddComponent<BoxCollider>();
+        BoxCollider col =  gameObject.GetComponent<BoxCollider>();
+        col.isTrigger = true;
     }
 
     // Update is called once per frame

@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 794db8a35fc066c439448a38bd0191a5, type: 2}
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -495,6 +495,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TotalGoldCount: 0
   stage: 2
+  RoationObsacle: 0
   PlayerGoldCntText: {fileID: 2020675332}
   StageGoldCntText: {fileID: 1852073163}
   scoreText: {fileID: 0}
@@ -4053,7 +4054,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4889916270699016, guid: 313ad0ef31f75b84f9f31c0528802fdd, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.35
+      value: 7.03
       objectReference: {fileID: 0}
     - target: {fileID: 4889916270699016, guid: 313ad0ef31f75b84f9f31c0528802fdd, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4115,6 +4116,7 @@ MonoBehaviour:
   speed: 50
   manager: {fileID: 312106468}
   rotateSpeed: 2
+  stage: 2
 --- !u!82 &2082617857
 AudioSource:
   m_ObjectHideFlags: 0
@@ -4330,7 +4332,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2101492290}
   m_LocalRotation: {x: 0.13740364, y: -0, z: -0, w: 0.99051523}
-  m_LocalPosition: {x: 0, y: 2, z: -3.65}
+  m_LocalPosition: {x: 0, y: 2, z: 1.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
