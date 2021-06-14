@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 46
+  controlID: 43
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 339
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 47
+  controlID: 16
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 48
+  controlID: 17
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -322,14 +322,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\yajun\Desktop\commute_run\commute-run\commute-run
+  m_LastProjectPath: C:\Users\dlwjd\commute-run\commute-run
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 190}
-    m_SelectedIDs: b2630000
-    m_LastClickedID: 25522
-    m_ExpandedIDs: 000000005c6300005e63000060630000626300006463000066630000686300006a6300006c6300006e630000706300007263000074630000766300007863000000ca9a3b
+    scrollPos: {x: 0, y: 180}
+    m_SelectedIDs: 46930000
+    m_LastClickedID: 37702
+    m_ExpandedIDs: 00000000f6920000f8920000fa920000fc920000fe92000000930000029300000493000006930000089300000a9300000c9300000e930000109300001293000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -357,7 +357,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005c6300005e63000060630000626300006463000066630000686300006a6300006c6300006e6300007063000072630000746300007663000078630000
+    m_ExpandedIDs: 00000000f6920000f8920000fa920000fc920000fe92000000930000029300000493000006930000089300000a9300000c9300000e9300001093000012930000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -481,21 +481,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 8ca2ffff92a5ffffe6a7ffffbcaaffffeab8ffff86b9ffff56baffff2cc6ffff30ccffff88ccffffcad5ffff56fbffffd26c0000346d0000
+      m_ExpandedIDs: 56b7ffffc6dcffffeaddffff18e0ffff08be0000aabe0000b4c100005ec400004ec60000f0cc0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Obstacle
-        m_OriginalName: Obstacle
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 27734
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -541,9 +541,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.2796905, y: 2.4179692, z: -3.153185}
+    m_Target: {x: -33.736187, y: 43.459652, z: 272.64624}
     speed: 2
-    m_Value: {x: 0.2796905, y: 2.4179692, z: -3.153185}
+    m_Value: {x: -33.736187, y: 43.459652, z: 272.64624}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -590,9 +590,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.08346106, y: 0.07799799, z: -0.013386614, w: 0.9938759}
+    m_Target: {x: -0.093273394, y: 0.14031477, z: -0.0062383884, w: -0.9862178}
     speed: 2
-    m_Value: {x: 0.08341862, y: 0.07795832, z: -0.013379807, w: 0.99337053}
+    m_Value: {x: -0.093233585, y: 0.13876228, z: -0.0060952636, w: -0.9859084}
   m_Size:
     m_Target: 0.57621604
     speed: 2
