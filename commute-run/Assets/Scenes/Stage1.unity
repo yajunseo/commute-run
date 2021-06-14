@@ -1424,6 +1424,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 95
@@ -2698,7 +2702,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_TagString
-      value: Obstacle1
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -2776,6 +2780,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -6842,6 +6850,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Cutter (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
       value: 109
@@ -6980,6 +6992,10 @@ PrefabInstance:
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Cutter
+      objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -7413,6 +7429,10 @@ PrefabInstance:
     - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_Name
       value: Subway Bench (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
@@ -8402,7 +8422,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_TagString
-      value: Obstacle1
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -8923,7 +8943,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 203784492}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -9252,7 +9272,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 214344054}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -10258,7 +10278,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 238110778}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -10503,6 +10523,10 @@ PrefabInstance:
     - target: {fileID: 157164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
       propertyPath: m_Name
       value: Pf_Stone (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 157164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 457164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
       propertyPath: m_RootOrder
@@ -11644,6 +11668,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Cutter (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
       value: 98
@@ -12387,7 +12415,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 275386213}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -13238,7 +13266,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 300482344}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -13317,6 +13345,19 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!65 &301269467
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 301269462}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9178464, y: 1.9178463, z: 1.9178464}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &302895192
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13813,6 +13854,10 @@ PrefabInstance:
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Cutter (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -15410,7 +15455,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 370641569}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -15551,6 +15596,10 @@ PrefabInstance:
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Cutter (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -17088,6 +17137,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 72
@@ -17430,6 +17483,24 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 6, y: 5.999999, z: 19.999998}
   m_Center: {x: 0, y: 0, z: 9.999999}
+--- !u!1 &426647886 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+  m_PrefabInstance: {fileID: 1327431439}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &426647889
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 426647886}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &427253456
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19622,7 +19693,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478360348}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -21415,6 +21486,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 96
@@ -22133,6 +22208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_SpoonTrap (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 187274, guid: 4fa16beb95824b543a4243439d735bf8, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 487274, guid: 4fa16beb95824b543a4243439d735bf8, type: 3}
       propertyPath: m_RootOrder
       value: 101
@@ -22697,6 +22776,10 @@ PrefabInstance:
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Cutter (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -23775,6 +23858,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -27893,7 +27980,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 681606432}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -28233,6 +28320,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4696600120383948, guid: 46021ec51eb2bf34091787fc9a234358, type: 3}
   m_PrefabInstance: {fileID: 691497095}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &692234163 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+  m_PrefabInstance: {fileID: 2087860620}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &692234166
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 692234163}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &693152448 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4696600120383948, guid: 46021ec51eb2bf34091787fc9a234358, type: 3}
@@ -28594,6 +28699,10 @@ PrefabInstance:
     - target: {fileID: 157164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
       propertyPath: m_Name
       value: Pf_Stone (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 157164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 457164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
       propertyPath: m_RootOrder
@@ -29013,6 +29122,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 74
@@ -29308,6 +29421,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Subway Bench (65)
       objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
       value: 69
@@ -29418,6 +29535,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -30060,7 +30181,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 738194371}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -30083,7 +30204,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 746115904}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -30420,6 +30541,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -31633,6 +31758,7 @@ MonoBehaviour:
   speed: 350
   manager: {fileID: 1282371087}
   rotateSpeed: 2
+  stage: 1
 --- !u!82 &792637990
 AudioSource:
   m_ObjectHideFlags: 0
@@ -32414,6 +32540,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Cutter (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
       value: 111
@@ -32702,6 +32832,24 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 801476685}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &804316037 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 570470213}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &804316040
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 804316037}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &804843404
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33046,6 +33194,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4680945333702898, guid: a96582774c4934e4894c0eba16f5aaa0, type: 3}
   m_PrefabInstance: {fileID: 831322820}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &817175008 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 1415050374}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &817175011
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 817175008}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &817821868 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
@@ -33953,7 +34119,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 840980181}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -34440,6 +34606,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -36577,6 +36747,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_SpearTrap (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 142846, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 142850, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 442846, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
       propertyPath: m_RootOrder
       value: 108
@@ -36731,7 +36909,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 927497524}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -36911,6 +37089,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4655180985360276, guid: c48ae754cf4b29f4c83b7182eba453bd, type: 3}
   m_PrefabInstance: {fileID: 929412115}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &929794438 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 142850, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
+  m_PrefabInstance: {fileID: 1389406000}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &929794439
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 929794438}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.25792783, y: 3.0811565, z: 0.1666175}
+  m_Center: {x: 0, y: -0.46100208, z: -0.00000001862645}
 --- !u!4 &930514130 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4696600120383948, guid: 46021ec51eb2bf34091787fc9a234358, type: 3}
@@ -37562,6 +37758,10 @@ PrefabInstance:
     - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_Name
       value: Subway Bench (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
@@ -38327,6 +38527,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4696600120383948, guid: 46021ec51eb2bf34091787fc9a234358, type: 3}
   m_PrefabInstance: {fileID: 1108013027}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &964834446 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 192116118}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &964834449
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 964834446}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &967160016
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -38990,6 +39208,10 @@ PrefabInstance:
     - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_Name
       value: Subway Bench (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
@@ -39859,17 +40081,17 @@ Transform:
   - {fileID: 1781556204}
   - {fileID: 1413687696}
   - {fileID: 1988957734}
+  - {fileID: 2120276915}
   - {fileID: 567764253}
   - {fileID: 126175058}
   - {fileID: 1220957927}
-  - {fileID: 2120276915}
   - {fileID: 575412803}
-  - {fileID: 1415683456}
   - {fileID: 1476893990}
-  - {fileID: 778049044}
+  - {fileID: 1415683456}
   - {fileID: 2061493901}
-  - {fileID: 480203909}
+  - {fileID: 778049044}
   - {fileID: 2120621046}
+  - {fileID: 480203909}
   - {fileID: 1191681843}
   - {fileID: 2131579340}
   - {fileID: 960566086}
@@ -39942,7 +40164,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1008484487}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -40941,6 +41163,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -42016,6 +42242,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Subway Bench (66)
       objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
       value: 70
@@ -42338,7 +42568,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1064443124}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -42897,7 +43127,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1074035081}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -44495,6 +44725,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Subway Bench (70)
       objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
       value: 74
@@ -45361,7 +45595,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1120724798}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -46950,6 +47184,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
+--- !u!1 &1145011936 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 142850, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
+  m_PrefabInstance: {fileID: 922095764}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1145011937
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1145011936}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.25792783, y: 3.0811565, z: 0.1666175}
+  m_Center: {x: 0, y: -0.46100208, z: -0.00000001862645}
 --- !u!1001 &1146283019
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -47742,6 +47994,10 @@ PrefabInstance:
     - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_Name
       value: Subway Bench (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
@@ -50075,7 +50331,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1218075998}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -52002,6 +52258,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Subway Bench (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
       value: 67
@@ -52637,7 +52897,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1274109884}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -54507,6 +54767,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 102
@@ -54800,6 +55064,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9b535858a2732f45a7725ce109189de, type: 3}
+--- !u!1 &1331479822 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 50686598}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1331479825
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1331479822}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1331723058 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
@@ -54900,6 +55182,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
   m_PrefabInstance: {fileID: 14823889}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1339482554 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 797710987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1339482557
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1339482554}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1339854070 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
@@ -55912,7 +56212,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1366822843}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -55994,7 +56294,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1370364274}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -56743,6 +57043,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_SpearTrap
       objectReference: {fileID: 0}
+    - target: {fileID: 142846, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 142850, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 442846, guid: 427e851e8ea40af4a9c14a042a3f35ef, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -57472,6 +57780,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 73
@@ -57878,6 +58190,10 @@ PrefabInstance:
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Cutter (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -58460,6 +58776,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 92
@@ -58888,6 +59208,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_SpoonTrap
       objectReference: {fileID: 0}
+    - target: {fileID: 187274, guid: 4fa16beb95824b543a4243439d735bf8, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 487274, guid: 4fa16beb95824b543a4243439d735bf8, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -59167,6 +59491,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -60442,6 +60770,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Subway Bench (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
       value: 75
@@ -61638,6 +61970,19 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!65 &1505329350
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1505329345}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9178464, y: 1.9178463, z: 1.9178464}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1505628922 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
@@ -62359,6 +62704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Stone (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 157164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 457164, guid: 7215ecca71a9d854d8e685613e73af92, type: 3}
       propertyPath: m_RootOrder
       value: 107
@@ -62911,7 +63260,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1529805828}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -63926,7 +64275,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1551277983}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -64146,7 +64495,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1556841415}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -65117,7 +65466,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1578353174}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -65272,6 +65621,19 @@ Animation:
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!65 &1585595239
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585595234}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.9178464, y: 1.9178463, z: 1.9178464}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1585644293
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -67846,7 +68208,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1658898117}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -68733,6 +69095,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4680945333702898, guid: a96582774c4934e4894c0eba16f5aaa0, type: 3}
   m_PrefabInstance: {fileID: 2125817253}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1687784538 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 150011986}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1687784541
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687784538}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1688880236
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -70125,6 +70505,10 @@ PrefabInstance:
     - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Cutter (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
@@ -72911,6 +73295,24 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+--- !u!1 &1806647128 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 262093237}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &1806647131
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1806647128}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1807077925
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -76548,7 +76950,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1913675035}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -77043,7 +77445,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1921720869}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -77432,7 +77834,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1934715179}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 10, y: 4.000001, z: 8.5}
@@ -78884,7 +79286,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1965947638}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -79438,7 +79840,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1982456512}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
@@ -80068,6 +80470,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Cutter (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 454860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
       propertyPath: m_RootOrder
       value: 105
@@ -80191,6 +80597,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 93
@@ -80282,6 +80692,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
   m_PrefabInstance: {fileID: 1949232249}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2010957393 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 154860, guid: 28ad6bc8a17e7284d884987726cf5100, type: 3}
+  m_PrefabInstance: {fileID: 146312141}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &2010957396
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2010957393}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &2011280010 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4662203425900390, guid: e9e9d3fe02f7a2f4689a2ac36cd628b1, type: 3}
@@ -82554,7 +82982,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1
+      value: 1.12
       objectReference: {fileID: 0}
     - target: {fileID: 4201367952780450, guid: f2aa5e45fc1d5e74c81833541e594d66, type: 3}
       propertyPath: m_LocalPosition.z
@@ -82593,6 +83021,10 @@ PrefabInstance:
     - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_Name
       value: Subway Bench (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1177579308989238, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 4531366504405280, guid: 14c1d1c15e308d04298b780ad057b8cb, type: 3}
       propertyPath: m_RootOrder
@@ -82709,6 +83141,10 @@ PrefabInstance:
     - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_Name
       value: Pf_Trap_Needle (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
@@ -83684,6 +84120,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pf_Trap_Needle (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 115016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     - target: {fileID: 415016, guid: afd19ab1d4bb70b499bb2f62171a522d, type: 3}
       propertyPath: m_RootOrder
       value: 75
@@ -84489,7 +84929,7 @@ BoxCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2130027087}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}

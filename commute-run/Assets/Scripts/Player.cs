@@ -15,7 +15,7 @@ public class Player : MonoBehaviour
     Animator anim;
     CharacterController controller;
     public float rotateSpeed = 2.0f;
-
+    public int stage = 0;
 
     private void Awake()
     {
@@ -106,6 +106,12 @@ public class Player : MonoBehaviour
             {
                 SceneManager.LoadScene(manager.stage);
             }
+        }
+
+        else if (other.tag == "Obstacle")
+        {
+            print("aa");
+            SceneManager.LoadScene(stage);
         }
     }
 }

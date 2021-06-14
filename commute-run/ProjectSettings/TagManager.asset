@@ -9,6 +9,8 @@ TagManager:
   - Obstacle1
   - Obstacle1Range
   - RotationObsacle
+  - Wall
+  - Obstacle
   layers:
   - Default
   - TransparentFX
