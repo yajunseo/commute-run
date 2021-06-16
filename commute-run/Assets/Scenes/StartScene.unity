@@ -946,9 +946,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TotalGoldCount: 0
-  stage: 3
+  stage: 0
+  RoationObsacle: 0
   PlayerGoldCntText: {fileID: 0}
   StageGoldCntText: {fileID: 0}
+  scoreText: {fileID: 0}
 --- !u!4 &1264906156
 Transform:
   m_ObjectHideFlags: 0

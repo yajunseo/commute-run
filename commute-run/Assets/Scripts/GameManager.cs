@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
         if (StageGoldCntText != null)
             StageGoldCntText.text = "/ " +( GameObject.FindGameObjectsWithTag("Gold").Length).ToString();
 
-        if(stage == 3)
+        if(stage == 0)
         {
             Debug.Log("스타트 스테이지");
             globalValue.score = 0;
@@ -46,7 +46,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (stage == 3)
+        if (stage == 0)
         {
             Debug.Log("스타트 스테이지");
             globalValue.score = 0;
@@ -57,9 +57,18 @@ public class GameManager : MonoBehaviour
             Debug.Log("점수 스테이지");
             scoreText.text = "SCORE : " + globalValue.score;
         }
+
+        if (Input.GetKey(KeyCode.Escape))
+        {
+#if UNITY_EDITOR
+            UnityEditor.EditorApplication.isPlaying = false;
+#else
+                    Application.Quit();   // 종료한다
+#endif
+        }
     }
 
-    public void GetGold(int count)
+        public void GetGold(int count)
     {
         PlayerGoldCntText.text = count.ToString(); 
     }

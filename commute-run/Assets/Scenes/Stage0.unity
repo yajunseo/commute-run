@@ -496,7 +496,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TotalGoldCount: 0
-  stage: 0
+  stage: 1
   RoationObsacle: 0
   PlayerGoldCntText: {fileID: 902235201}
   StageGoldCntText: {fileID: 407612338}
@@ -8080,6 +8080,7 @@ MonoBehaviour:
   speed: 50
   manager: {fileID: 42461164}
   rotateSpeed: 2
+  stage: 1
 --- !u!65 &1330790610
 BoxCollider:
   m_ObjectHideFlags: 0

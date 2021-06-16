@@ -31904,7 +31904,7 @@ MonoBehaviour:
   speed: 350
   manager: {fileID: 1282371087}
   rotateSpeed: 2
-  stage: 1
+  stage: 2
 --- !u!82 &792637990
 AudioSource:
   m_ObjectHideFlags: 0
@@ -53493,7 +53493,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TotalGoldCount: 0
-  stage: 1
+  stage: 2
   RoationObsacle: 0
   PlayerGoldCntText: {fileID: 1498500972}
   StageGoldCntText: {fileID: 876173697}

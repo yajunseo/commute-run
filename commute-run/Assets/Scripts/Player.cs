@@ -94,7 +94,7 @@ public class Player : MonoBehaviour
             //int stageNum = manager.stage;
             if (manager.TotalGoldCount == GoldCount)
             {
-                if (manager.stage == 2)
+                if (manager.stage == 3)
                     SceneManager.LoadScene(4);
 
                 else

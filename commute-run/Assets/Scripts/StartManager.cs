@@ -21,22 +21,22 @@ public class StartManager : MonoBehaviour
 
     public void Stage1Button()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
     public void Stage2Button()
     {
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
     public void Stage3Button()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(3);
     }
 
     public void HomeButton()
     {
-        SceneManager.LoadScene(3);
+        SceneManager.LoadScene(0);
     }
 
 
